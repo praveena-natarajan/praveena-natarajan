@@ -53,5 +53,5 @@
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praveena%20Natarajan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/praveena-natarajan-pmp/)
-📧 praverkn@yahoo.co.in
+📧 praveradhakri@gmail.com
 📍 Christchurch, New Zealand
