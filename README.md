@@ -24,7 +24,7 @@
 | Project | Description | Tools |
 |---|---|---|
 | 🚗 NZ Road Safety Analysis | Drink/drug driving trends using NZ Police public data | R, ggplot2, Quarto |
-| [📉 Telecom Churn Prediction](https://github.com/your-username/telecom-churn-prediction) | Predicting telecom customer churn — 79% accuracy using Logistic Regression & Random Forest | Python, scikit-learn, pandas |
+| [📉 Telecom Churn Prediction](https://github.com/praveena-natarajan/telecom-churn-prediction) | Predicting telecom customer churn — 79% accuracy using Logistic Regression & Random Forest | Python, scikit-learn, pandas |
 | 📊 NZ Open Data Dashboard | Interactive NZ socioeconomic trends dashboard | R Shiny |
 
 *(More projects coming soon — watch this space!)*
