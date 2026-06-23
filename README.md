@@ -25,7 +25,7 @@
 |---|---|---|
 | [🚗 NZ Road Safety Analysis](https://github.com/praveena-natarajan/nz-road-safety-analysis) | Drink/drug driving trends using NZ Police public data — hypothesis testing & visualisation | R, ggplot2, Quarto |
 | [📉 Telecom Churn Prediction](https://github.com/praveena-natarajan/telecom-churn-prediction) | Predicting telecom customer churn — 79% accuracy using Logistic Regression & Random Forest | Python, scikit-learn, pandas |
-| 📊 NZ Open Data Dashboard | Interactive NZ socioeconomic trends dashboard | PowerBI |
+| [📊 NZ Tech & Digital Job Market Dashboard](https://github.com/praveena-natarajan/NZ-Tech-Job-Market-Dashboard) | Interactive Power BI dashboard analysing NZ tech job market trends 2007–2026 using MBIE Jobs Online open data | Power BI |
 
 *(More projects coming soon — watch this space!)*
 
