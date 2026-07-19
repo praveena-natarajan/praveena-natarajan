@@ -28,7 +28,7 @@
 | [📊 NZ Tech & Digital Job Market Dashboard](https://github.com/praveena-natarajan/NZ-Tech-Job-Market-Dashboard) | Interactive Power BI dashboard analysing NZ tech job market trends 2007–2026 using MBIE Jobs Online open data | Power BI |
 | [🗄️ NZ Road Safety SQL Analysis](https://github.com/praveena-natarajan/nz-road-safety-sql) | Exploratory analysis of 913k NZ crash records — fatalities by region, weather, speed zone and vehicle type | SQL, MySQL |
 | [🌧️ NZ Rainfall & Temperature Dashboard](https://github.com/praveena-natarajan/nz-rainfall-temperature-dashboard) | Monthly rainfall/temperature reports and correlation analysis for Christchurch weather stations (2020–2022), with CLI reports and an interactive Streamlit dashboard | Python, pandas, matplotlib, Streamlit |
-
+| [📡 AI-Driven Fault Management Automation – Spark NZ](https://github.com/praveena-natarajan/<repo-name>) | Business case and AI adoption proposal for Tier-1 fault management automation in a telecom Network Operations Centre, covering workforce and social impact | Academic Research, Business Case Analysis |
 *(More projects coming soon — watch this space!)*
 
 ---
