@@ -45,10 +45,10 @@
 ## 💼 Professional Background
 
 19+ years across **Nokia**, **Alcatel-Lucent** and **Reliance Communications**:
-- Led 35-member teams in network operations & configuration management
+- Led 35-member teams in network operations centre
 - Built Python & VBA automation — reduced manual effort by 30%
 - Delivered Power BI dashboards & KPI reports for senior stakeholders
-- PMP-certified project delivery across global telecom projects
+- PMP-certified project delivery across global projects
 
 ---
 
