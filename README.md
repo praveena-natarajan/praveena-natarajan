@@ -14,7 +14,7 @@
 **Languages:** Python | R | SQL
 **Data & Analysis:** pandas | NumPy | scikit-learn | tidyverse | MySQL
 **Visualisation:** ggplot2 | Power BI | DAX | Matplotlib | Seaborn
-**Tools:** Quarto | Git | Jupyter Notebook | RStudio | Excel (VBA/Macros)
+**Tools:** Quarto | Git | Jupyter Notebook | RStudio | Excel (VBA/Macros) | Linux
 **Methods:** Hypothesis Testing | Regression | EDA | Data Wrangling | Process Automation
 
 ---
