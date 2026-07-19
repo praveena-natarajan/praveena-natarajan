@@ -1,7 +1,7 @@
 # Hi, I'm Praveena Natarajan 👋
 
 🎓 Data Science Student | Master of Applied Data Science @ University of Canterbury, NZ
-📡 19+ years in Telecommunications | Network Operations & Configuration Management
+📡 19+ years in Network Operations Centre (NOC)
 📊 Passionate about turning complex data into clear, actionable insights
 📍 Christchurch, New Zealand
 
