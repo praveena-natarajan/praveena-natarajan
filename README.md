@@ -27,6 +27,7 @@
 | [📉 Telecom Churn Prediction](https://github.com/praveena-natarajan/telecom-churn-prediction) | Predicting telecom customer churn — 79% accuracy using Logistic Regression & Random Forest | Python, scikit-learn, pandas |
 | [📊 NZ Tech & Digital Job Market Dashboard](https://github.com/praveena-natarajan/NZ-Tech-Job-Market-Dashboard) | Interactive Power BI dashboard analysing NZ tech job market trends 2007–2026 using MBIE Jobs Online open data | Power BI |
 | [🗄️ NZ Road Safety SQL Analysis](https://github.com/praveena-natarajan/nz-road-safety-sql) | Exploratory analysis of 913k NZ crash records — fatalities by region, weather, speed zone and vehicle type | SQL, MySQL |
+| [🌧️ NZ Rainfall & Temperature Dashboard](https://github.com/praveena-natarajan/nz-rainfall-temperature-dashboard) | Monthly rainfall/temperature reports and correlation analysis for Christchurch weather stations (2020–2022), with CLI reports and an interactive Streamlit dashboard | Python, pandas, matplotlib, Streamlit |
 
 *(More projects coming soon — watch this space!)*
 
